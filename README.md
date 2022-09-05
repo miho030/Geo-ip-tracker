@@ -10,17 +10,14 @@ So, OpenIpTr4ck3r's purpose is "Find attackers Physical location using IP Addr  
 like Country name, Longitude, Langitude.
 
 ## ScreenShot
-* * *
+
 
 ## Usage
-* * *
-
 ```python
   $python OpenipTr4ck3r.py {destination ip address}
 ```
 
 ## Requirments
-
 ```python
   - Python 2.7
   - pyGeoIp
@@ -30,12 +27,10 @@ https://pypi.python.org/pypi/pygeoip
 +==========================================+    
 
 ## Recent Update Issues
-* * *
 + pygeoip - lastest version => 0.3.2    
 
 
 ## Warning
-* * *
 **You may need some modifications to drive this script.**  
 Within the source code, the default path for the database is : ('C:\ Python27 \ GeoDB \ GeoLiteCity.dat')  
 If you put the file in the Python basic installation path, you won't need a separate modifications.  
