@@ -1,0 +1,7 @@
+PyQt5
+PyOpenGL
+pillow
+numpy
+pygeoip
+pyWebBrowser
+ipwhois
