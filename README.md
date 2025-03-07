@@ -12,44 +12,44 @@ Geo-IP Tracker is a powerful and user-friendly application that allows you to tr
 - 🚀 **Fast and Reliable**: Uses modern APIs to provide accurate and up-to-date geolocation data.
 
 ## Installation
-
-###1. Clone the repository
-
+### 1. Clone the repository
 ```bash
 git clone https://github.com/miho030/Geo-ip-tracker.git
 cd Geo-ip-tracker
 ```
 
-###2. Install dependencies
+### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-###3. Run the application (Source Code)
+### 3. Run the application (Source Code)
 ```bash
 python main.py
 ```
 
-###4. Run the application (Executable File)
+### 4. Run the application (Executable File)
 If you downloaded the executable (.exe) file from the GitHub release, simply run the executable directly.
 
-##Usage
+* * *
+## Usage
     Enter any valid IP address into the input field.
     The application will fetch and display the geographical information on the map.
 
-##Technologies Used
-
+## Technologies Used
     Frontend/Styling: PyQt5, OpenGL
     API: IP Geolocation offline DB
     Mapping: WIP
 
-##Contribution
+* * *
+
+## Contribution
   Contributions are welcome! Please open an issue or submit a pull request with your improvements or suggestions.
 
-##License
+## License
   This project is licensed under the GPL-2.0 License.
 
-##WIP List
+## WIP List
 - [ ] Add departure and destination markers in the globe rendering for physical location tracking.
 - [ ] Implement arrow animation between departure and destination points on the globe rendering.
 - [ ] Provide enhanced network tracking information through online data aggregation (Currently fully offline operation).
