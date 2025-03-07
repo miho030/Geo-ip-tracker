@@ -45,9 +45,11 @@ If you downloaded the executable (.exe) file from the GitHub release, simply run
     Frontend/Styling: PyQt5, OpenGL
     API: IP Geolocation offline DB
     Mapping: WIP
+</br>
 
 ## Contribution
   Contributions are welcome! Please open an issue or submit a pull request with your improvements or suggestions.
+</br>
 
 ## License
   This project is licensed under the GPL-2.0 License.
