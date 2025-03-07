@@ -3,6 +3,7 @@
 Geo-IP Tracker is a powerful and user-friendly application that allows you to track the geographical location of an IP address. This tool is perfect for developers, network administrators, and anyone interested in gaining insights into the geographical distribution of web traffic or network activity.
 
 ## Video Demo
+[![Watch the video](https://img.youtube.com/vi/5nPp3EqybJU/maxresdefault.jpg)](https://youtu.be/5nPp3EqybJU)
 
 ## Features
 
@@ -31,7 +32,6 @@ python main.py
 ### 4. Run the application (Executable File)
 If you downloaded the executable (.exe) file from the GitHub release, simply run the executable directly.
 
-* * *
 ## Usage
     Enter any valid IP address into the input field.
     The application will fetch and display the geographical information on the map.
@@ -40,8 +40,6 @@ If you downloaded the executable (.exe) file from the GitHub release, simply run
     Frontend/Styling: PyQt5, OpenGL
     API: IP Geolocation offline DB
     Mapping: WIP
-
-* * *
 
 ## Contribution
   Contributions are welcome! Please open an issue or submit a pull request with your improvements or suggestions.
