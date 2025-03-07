@@ -1,14 +1,11 @@
 # Geo-IP Tracker
 Geo-IP Tracker is a powerful and user-friendly application that allows you to track the geographical location of an IP address. This tool is perfect for developers, network administrators, and anyone interested in gaining insights into the geographical distribution of web traffic or network activity.
 
-</br>
-
 ## Video Demo
 [![Watch the video](https://img.youtube.com/vi/5nPp3EqybJU/maxresdefault.jpg)](https://www.youtube.com/watch?v=5nPp3EqybJU)
 
-</br>
-## Features
 
+## Features
 - 🌍 **Real-Time IP Geolocation**: Get precise information about the location of any IP address, including country, city, latitude, longitude, and more.
 - 📈 **Interactive Map Visualization**: Visualize the IP location on a dynamic map using popular mapping libraries.
 - 🔍 **Easy-to-Use Interface**: Simple and intuitive interface for quick IP tracking.
