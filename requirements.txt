@@ -3,5 +3,4 @@ PyOpenGL
 pillow
 numpy
 pygeoip
-pyWebBrowser
 ipwhois

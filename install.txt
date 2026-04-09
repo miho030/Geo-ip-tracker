@@ -1,1 +1,1 @@
-pyinstaller --onefile --noconsole --icon="resource/AOI_icon.ico" --add-data "resource/earth_texture.jpg;resource" --add-data "resource/GeoLiteCity.dat;resource" main.py
+pyinstaller --clean --noconfirm --noupx --onefile --noconsole --name "Geo-ip-tracker" --icon="resource/AOI_icon.ico" --add-data "resource/earth_texture.jpg;resource" --add-data "resource/GeoLiteCity.dat;resource" main.py
