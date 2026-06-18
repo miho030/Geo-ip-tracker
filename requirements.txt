@@ -4,3 +4,4 @@ pillow
 numpy
 pygeoip
 ipwhois
+keyring
